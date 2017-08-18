@@ -1,0 +1,22 @@
+{
+  "name": "hydra-test",
+  "version": "0.0.1",
+  "description": "Basic hydra test (tutorial 1)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hydra",
+    "express",
+    "js",
+    "test",
+    "tutorial"
+  ],
+  "author": "Fabio Albertin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "hydra-express": "^1.4.19"
+  }
+}
